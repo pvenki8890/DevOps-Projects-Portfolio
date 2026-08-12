@@ -45,6 +45,21 @@ A complete end-to-end DevSecOps CI/CD pipeline built using Jenkins Pipeline as C
 ### 🔗 Repository Link
 👉 https://github.com/pvenki8890/Java_app_3.0
 
+
+---
+
+### 2️⃣ Azure AKS GitOps Pipeline
+
+Production-style GitOps continuous delivery project deploying a containerized Go application to **Azure Kubernetes Service (AKS)** using **Docker, Azure Container Registry (ACR), Kubernetes, GitHub, and Argo CD**.
+
+* **Key Features:**
+  * **Containerization & Registry:** Built a lightweight Go application using a multi-stage Docker build and published the image to Azure Container Registry (ACR).
+  * **Kubernetes Deployment:** Deployed the application to AKS using declarative Kubernetes manifests with replicas, resource requests/limits, and a LoadBalancer service.
+  * **GitOps Deployment:** Configured Argo CD to continuously synchronize Kubernetes manifests from GitHub to AKS with automated deployment.
+  * **Self-Healing:** Demonstrated configuration drift detection and automatic reconciliation using Argo CD `selfHeal`, restoring the desired Kubernetes state automatically.
+
+🔗 **Repository:** https://github.com/pvenki8890/azure-aks-gitops
+
 ---
 
 # 🚀 Upcoming Projects
@@ -54,7 +69,6 @@ A complete end-to-end DevSecOps CI/CD pipeline built using Jenkins Pipeline as C
 - Helm Chart Deployment
 - GitHub Actions CI/CD
 - Monitoring with Prometheus & Grafana
-- ArgoCD GitOps Workflow
 
 ---
 
