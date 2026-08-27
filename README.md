@@ -113,6 +113,6 @@ DevOps Engineer passionate about:
 https://github.com/pvenki8890
 
 ## LinkedIn
-https://www.linkedin.com/in/v-0b3699225/
+www.linkedin.com/in/papisetti-venkatesh
 
 ---
