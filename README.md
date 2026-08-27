@@ -64,7 +64,7 @@ Production-style GitOps continuous delivery project deploying a containerized Go
 
 ---
 
-### 3️⃣ Enterprise GitHub Actions DevSecOps
+### 3️⃣ Enterprise GitHub Actions DevSecOps on Azure
 
 **GitHub Actions · Python · Docker · Trivy · Azure OIDC · ACR · Container Apps**
 
@@ -84,7 +84,7 @@ A secure CI/CD and DevSecOps pipeline for a containerized Python Flask applicati
 - ✅ Application and health endpoint verification
 
 🔗 **Repository:**  
-https://github.com/pvenki8890/azure-github-actions-devsecops
+https://github.com/pvenki8890/Enterprise-GitHub-Actions-DevSecOps-on-Azure
 
 ---
 
