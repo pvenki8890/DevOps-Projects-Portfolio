@@ -62,13 +62,36 @@ Production-style GitOps continuous delivery project deploying a containerized Go
 
 ---
 
+### 3️⃣ Azure GitHub Actions DevSecOps
+
+**GitHub Actions · Python · Docker · Trivy · Azure OIDC · ACR · Container Apps**
+
+A secure CI/CD and DevSecOps pipeline for a containerized Python Flask application, integrating automated testing, dependency auditing, container security, passwordless Azure authentication, and Azure container deployment.
+
+**Key Highlights**
+
+- ⚙️ GitHub Actions CI pipeline
+- 🧪 Automated testing with `pytest`
+- 🔎 Dependency security with `pip-audit`
+- 🛡️ Container scanning with Trivy
+- 🔐 GitHub OIDC authentication to Azure
+- 🔑 Managed Identity with least-privilege `AcrPull`
+- 📦 Azure Container Registry
+- ☁️ Azure Container Apps
+- 🏷️ Git SHA-based container image traceability
+- ✅ Application and health endpoint verification
+
+🔗 **Repository:**  
+https://github.com/pvenki8890/azure-github-actions-devsecops
+
+---
+
 # 🚀 Upcoming Projects
 
-- Kubernetes Deployment Pipeline
-- Terraform AWS Infrastructure
-- Helm Chart Deployment
-- GitHub Actions CI/CD
-- Monitoring with Prometheus & Grafana
+- 🏗️ Terraform-based AWS Infrastructure
+- 📦 Helm-based Kubernetes Deployments
+- 📊 Kubernetes Monitoring with Prometheus & Grafana
+- ☸️ Additional Kubernetes deployment and operations projects
 
 ---
 
