@@ -64,7 +64,7 @@ Production-style GitOps continuous delivery project deploying a containerized Go
 
 ---
 
-### 3️⃣ Azure GitHub Actions DevSecOps
+### 3️⃣ Enterprise GitHub Actions DevSecOps
 
 **GitHub Actions · Python · Docker · Trivy · Azure OIDC · ACR · Container Apps**
 
@@ -90,10 +90,9 @@ https://github.com/pvenki8890/azure-github-actions-devsecops
 
 # 🚀 Upcoming Projects
 
-- 🏗️ Terraform-based AWS Infrastructure
-- 📦 Helm-based Kubernetes Deployments
-- 📊 Kubernetes Monitoring with Prometheus & Grafana
-- ☸️ Additional Kubernetes deployment and operations projects
+- 🏗️ Production Azure Platform with Terraform + AKS
+- 📦 Azure SRE Observability & Reliability Platform
+- ⭐ Enterprise DevOps / Platform Engineering Capstone
 
 ---
 
