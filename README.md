@@ -7,8 +7,10 @@ This repository contains hands-on projects focused on:
 - CI/CD Automation
 - DevSecOps
 - Docker & Containerization
+- Azure Cloud Infrastructure
 - AWS Cloud Infrastructure
 - Jenkins Automation
+- Github Actions
 - Kubernetes
 - Infrastructure as Code
 - Monitoring & Security
